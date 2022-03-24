@@ -3,12 +3,10 @@ title: Introduction
 nav: Intro
 ---
 
-`workshop-template-b` is a Jekyll project to create a simple workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
+FOLIO ERM is to manage your eResrouces effectively. It consists of Organisations, Licenses, Agreements and eHoldings apps.
 
-It works best for about 5 pages of instructions, plus index, all written in Markdown. 
-The navigation to the main pages is exposed at top and bottom of each page for easy stepping through the lessons.
-
-### Why?
+## How they are connected
+{% include figure.html img="Lisa Apps link.png" alt="cat" caption="Data link" width="80%" %}
 
 Rather than making slides for a workshop, why not make a website? 
 It's easier to write, access, share, and reuse. 
