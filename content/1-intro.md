@@ -3,7 +3,7 @@ title: Introduction
 nav: Intro
 ---
 
-{% include figure.html img="Lisa Apps link.png" alt="intro image here" caption="Future of library is open!" width="75%" %}
+{% include figure.html img="Lisa Apps link.png" alt="intro image here" caption="ERM apps" width="75%" %}
 
 
 ### FOLIO ERM Apps
